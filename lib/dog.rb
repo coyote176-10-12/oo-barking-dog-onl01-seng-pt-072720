@@ -9,7 +9,8 @@ class Dog
     @doggie_name
    
 end
-  puts "woof"
+  
 end
+
 
 
